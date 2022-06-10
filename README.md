@@ -12,13 +12,13 @@ And more to come.
 ```
 You must have Python3 to work.
 ```
-#Windows
+# Windows
 ```
 python3 -m pip install youtubesearchpython
 python3 -m pip install youtube_dl
 python3 -m pip install discord
 ```
-#Linux
+# Linux
 ```
 pip install youtubesearchpython
 pip install youtube_dl
